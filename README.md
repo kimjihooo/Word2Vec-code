@@ -1,9 +1,9 @@
 # Word2Vec-code
 ### **Deep daiv 프로젝트 : Word2Vec 논문 리뷰**
 
-Word2Vec  ⌜Efficient Estimation Of Word Representations In Vector Space⌟
+[Word2Vec](https://arxiv.org/abs/1301.3781, "논문원본")  ⌜Efficient Estimation Of Word Representations In Vector Space⌟
 
-https://arxiv.org/abs/1301.3781
+
 
  
 
